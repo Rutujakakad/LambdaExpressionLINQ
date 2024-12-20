@@ -12,3 +12,4 @@ C:\Users\GAURAV KAKAD\OneDrive\Desktop\LambdaExpre_LINQ\LambdaExp_LINQ\LambdaExp
 C:\Users\GAURAV KAKAD\OneDrive\Desktop\LambdaExpre_LINQ\LambdaExp_LINQ\LambdaExp_LINQ\obj\Debug\net6.0\LambdaExp_LINQ.pdb
 C:\Users\GAURAV KAKAD\OneDrive\Desktop\LambdaExpre_LINQ\LambdaExp_LINQ\LambdaExp_LINQ\obj\Debug\net6.0\LambdaExp_LINQ.genruntimeconfig.cache
 C:\Users\GAURAV KAKAD\OneDrive\Desktop\LambdaExpre_LINQ\LambdaExp_LINQ\LambdaExp_LINQ\obj\Debug\net6.0\ref\LambdaExp_LINQ.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\LambdaExpre_LINQ\LambdaExp_LINQ\LambdaExp_LINQ\obj\Debug\net6.0\LambdaExp_LINQ.sourcelink.json
